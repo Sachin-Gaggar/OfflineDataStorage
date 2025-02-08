@@ -1,4 +1,4 @@
-# User Management App
+# Offline Demo App
 
 ## **Getting Started**
 
@@ -9,6 +9,7 @@ This app allows you to manage a list of users with functionalities to add, edit,
 To get started, run the following command in your terminal:
 
 ```bash
+npm install
 npx expo start
 ```
 
