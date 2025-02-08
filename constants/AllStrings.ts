@@ -1,0 +1,21 @@
+const AllStrings = {
+  User: "User",
+  somethingWentWrong: "Smething Went Wrong",
+  ok: "ok",
+  apiResponseFailed: "API Not Working",
+  databaseEmpty: "No Data Saved, please connect to internet",
+  empty: "No users found.",
+  role: "Role:",
+  delete: "Delete",
+  edit: "Edit",
+  save: "Save",
+  admin: "Admin",
+  addUser: "Add User",
+  customer: "Customer",
+  nameError: "Name is required.",
+  mailError: "Email is required.",
+  validEmail: "Please enter a valid email address",
+  passwordError: "Password is required",
+  roleError: "Role is required.",
+};
+export default AllStrings;
